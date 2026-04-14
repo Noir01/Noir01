@@ -6,6 +6,6 @@ Currently, I'm working as a student researcher on the [Gibbon](https://github.co
 
 I'm always eager to learn, build cool things, and collaborate on interesting projects—especially those involving systems programming and compiler development.
 
-Feel free to check out my [website](https://noir.ac) or connect!
+Feel free to check out my [website](https://srivastava.dev) or connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddh-srivastava/)
