@@ -1,11 +1,13 @@
 # Hi, I'm Aniruddh 👋
 
-I'm a junior at [Purdue](https://www.cs.purdue.edu/), with an interest in writing low-level software and programming languages.
+CS senior at [Purdue](https://www.cs.purdue.edu/). I write low-level software: systems, compilers, programming languages, formal verification.
 
-Currently, I'm working as a student researcher on the [Gibbon](https://github.com/gibbon-compiler/gibbon) project at Purdue, where I get to explore exciting challenges related to compilers, memory management, and performance optimization.
+Student researcher on [Gibbon](https://github.com/gibbon-compiler/gibbon) — a compiler that operates on serialized data without deserializing it.
 
-I'm always eager to learn, build cool things, and collaborate on interesting projects—especially those involving systems programming and compiler development.
+Currently a PM intern at Cloudflare (Cloudflare One / Zero Trust / Gateways).
 
-Feel free to check out my [website](https://srivastava.dev) or connect!
+Off the clock: FPGAs, self-hosting, a new language every year for [Advent of Code](https://adventofcode.com/).
+
+[Website](https://srivastava.dev) · [LinkedIn](https://www.linkedin.com/in/aniruddh-srivastava/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddh-srivastava/)
