@@ -8,6 +8,5 @@ Currently a PM intern at Cloudflare (Cloudflare One / Zero Trust / Gateways).
 
 Off the clock: FPGAs, self-hosting, a new language every year for [Advent of Code](https://adventofcode.com/).
 
-[Website](https://srivastava.dev) · [LinkedIn](https://www.linkedin.com/in/aniruddh-srivastava/)
-
+Feel free to check out my [website](https://srivastava.dev) or connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddh-srivastava/)
