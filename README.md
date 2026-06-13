@@ -2,10 +2,8 @@
 
 CS senior at [Purdue](https://www.cs.purdue.edu/). I write low-level software: systems, compilers, programming languages, formal verification.
 
-Student researcher on [Gibbon](https://github.com/gibbon-compiler/gibbon) — a compiler that operates on serialized data without deserializing it.
+Student researcher on [Gibbon](https://github.com/gibbon-compiler/gibbon) a compiler that operates on serialized data without deserializing it.
 
-Currently a PM intern at Cloudflare (Cloudflare One / Zero Trust / Gateways).
-
-Off the clock: FPGAs, self-hosting, a new language every year for [Advent of Code](https://adventofcode.com/).
+Currently a PM intern at [Cloudflare](http://cloudflare.com/) working on Gateways.
 
 Feel free to check out my [website](https://srivastava.dev) or connect on [LinkedIn](https://www.linkedin.com/in/aniruddh-srivastava/)!
